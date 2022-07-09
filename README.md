@@ -225,8 +225,8 @@ A list of tools and technologies with which I have knowledge and experience.
 
 A list of courses I took.
 
-- **[Ignite Node.js](https://github.com/alexbjr369/ignite/course/node-js)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
-- **[Ignite React.js](https://github.com/alexbjr369/ignite/course/react-js)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
+- **[Ignite Node.js](https://www.rocketseat.com.br/ignite)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
+- **[Ignite React.js](https://www.rocketseat.com.br/ignite)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
 - **[JavaScript Unit Testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide)** by **[Academind](https://www.udemy.com/user/academind/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Angular the Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)** by **[Academind](https://www.udemy.com/user/academind/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Vue the Complete Guide](https://www.udemy.com/course/vuejs-2-the-complete-guide)** by **[Academind](https://www.udemy.com/user/academind/)** on **[Udemy](https://www.udemy.com/)**.
