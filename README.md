@@ -35,6 +35,12 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
   <a href="https://ionicframework.com/docs/utilities/animations" target="_blank">
     <img align="center" alt="Ionic Animations and Gestures" height="50" width="50" src="./icons/ionic.svg">
   </a>
+  <a href="https://angular.io/" target="_blank">
+    <img align="center" alt="Angular" height="50" width="50" src="./icons/angular.svg">
+  </a>
+  <a href="https://ionicframework.com/docs/utilities/animations" target="_blank">
+    <img align="center" alt="Ionic Animations and Gestures" height="50" width="50" src="./icons/ionic.svg">
+  </a>
 </div>
 
 ## [Knowledge](https://alexbleggi.netlify.app/knowledge)
@@ -242,5 +248,8 @@ A list of courses I took.
 A list of personal and course projects.
 
 ### Personal Projects
+
+- **[Linting - Formatting Rules](https://github.com/alexbjr369/linting-formatting-rules):** A configuration for Formatting Rules Linting.
+- **[Linting - Commit](https://github.com/alexbjr369/linting-commit):** A configuration for Commit Linting.
 
 ### Course Projects
