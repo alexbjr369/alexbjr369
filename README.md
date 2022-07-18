@@ -249,6 +249,8 @@ A list of personal and course projects.
 
 ### Personal Projects
 
+- **[Website](https://github.com/alexbjr369/website/tree/feature):** Personal Website.
+- **[Linting - Code-quality Rules](https://github.com/alexbjr369/linting-code-quality-rules):** A compilation of Code-quality Rules Linting configurations.
 - **[Linting - Formatting Rules](https://github.com/alexbjr369/linting-formatting-rules):** A configuration for Formatting Rules Linting.
 - **[Linting - Commit](https://github.com/alexbjr369/linting-commit):** A configuration for Commit Linting.
 
