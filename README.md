@@ -9,7 +9,7 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
   <a href="https://www.behance.net/alexbleggi" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=behance&logoColor=white&color=0057ff" target="_blank"></a>
   <a href="https://soundcloud.com/alex-bleggi" target="_blank"><img src="https://img.shields.io/badge/-soundcloud-%230077B5?style=for-the-badge&logo=soundcloud&logoColor=white&color=f50" target="_blank"></a>
   <a href="https://www.udemy.com/user/alex-bleggi-2/" target="_blank"><img src="https://img.shields.io/badge/-udemy-%230077B5?style=for-the-badge&logo=udemy&logoColor=white&color=a435f0" target="_blank"></a>
-  <a href="https://www.npmjs.com/~alexbj369" target="_blank"><img src="https://img.shields.io/badge/-npm-%230077B5?style=for-the-badge&logo=npm&logoColor=white&color=cb3837" target="_blank"></a>
+  <a href="https://www.npmjs.com/~alexbjr369" target="_blank"><img src="https://img.shields.io/badge/-npm-%230077B5?style=for-the-badge&logo=npm&logoColor=white&color=cb3837" target="_blank"></a>
 </div>
 
 ### Currently studying:
