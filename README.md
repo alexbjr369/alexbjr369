@@ -134,6 +134,9 @@ A list of tools and technologies with which I have knowledge and experience.
   <a href="https://webpack.js.org/" target="_blank">
     <img align="center" alt="Webpack" height="50" width="50" src="./icons/webpack.svg">
   </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img align="center" alt="Webpack" height="50" width="50" src="./icons/vite.svg">
+  </a>
 </div>
 
 ### HTTP Clients
@@ -141,6 +144,14 @@ A list of tools and technologies with which I have knowledge and experience.
 <div style="display: inline_block">
   <a href="https://axios-http.com/docs/intro" target="_blank">
     <img align="center" alt="Axios" height="50" width="50" src="./icons/axios.svg">
+  </a>
+</div>
+
+### Monorepos
+
+<div style="display: inline_block">
+  <a href="https://lerna.js.org/" target="_blank">
+    <img align="center" alt="Axios" height="50" width="50" src="./icons/lerna-gray.svg">
   </a>
 </div>
 
