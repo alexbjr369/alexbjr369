@@ -12,6 +12,8 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
   <a href="https://www.npmjs.com/~alexbjr369" target="_blank"><img src="https://img.shields.io/badge/-npm-%230077B5?style=for-the-badge&logo=npm&logoColor=white&color=cb3837" target="_blank"></a>
 </div>
 
+<br>
+
 > For more information check out my **[website](https://alexbleggi.netlify.app/)**!!!
 
 ### Most used languages:
