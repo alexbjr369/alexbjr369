@@ -135,7 +135,7 @@ A list of tools and technologies with which I have knowledge and experience.
     <img align="center" alt="Webpack" height="50" width="50" src="./icons/webpack.svg">
   </a>
   <a href="https://vitejs.dev/" target="_blank">
-    <img align="center" alt="Webpack" height="50" width="50" src="./icons/vite.svg">
+    <img align="center" alt="Vite" height="50" width="50" src="./icons/vite.svg">
   </a>
 </div>
 
@@ -151,7 +151,7 @@ A list of tools and technologies with which I have knowledge and experience.
 
 <div style="display: inline_block">
   <a href="https://lerna.js.org/" target="_blank">
-    <img align="center" alt="Axios" height="50" width="50" src="./icons/lerna-gray.svg">
+    <img align="center" alt="Lerna" height="50" width="50" src="./icons/lerna-gray.svg">
   </a>
 </div>
 
@@ -268,3 +268,5 @@ A list of personal and course projects.
 - **[Linting - Commit](https://github.com/alexbjr369/linting-commit):** A configuration for Commit Linting.
 
 ### Course Projects
+
+- **[Natours](https://alexbleggi.netlify.app/preview/natours/):** Project developed in the course **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
