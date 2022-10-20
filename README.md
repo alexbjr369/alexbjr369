@@ -2,13 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=alexbjr369)
 
-<details>
-<summary><b>Open to show github stats:</b></summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbjr369&langs_count=10&layout=compact)](https://github.com/alexbjr369/github-readme-stats)
-
-</details>
-
 Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in web development and an **UI/UX/Design System** development enthusiast, currently living in Brazil.
 
 > For more information check out my **[website](https://alexbleggi.netlify.app/)**!!!
@@ -20,6 +13,13 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
   <a href="https://www.udemy.com/user/alex-bleggi-2/" target="_blank"><img src="https://img.shields.io/badge/-udemy-%230077B5?style=for-the-badge&logo=udemy&logoColor=white&color=a435f0" target="_blank"></a>
   <a href="https://www.npmjs.com/~alexbjr369" target="_blank"><img src="https://img.shields.io/badge/-npm-%230077B5?style=for-the-badge&logo=npm&logoColor=white&color=cb3837" target="_blank"></a>
 </div>
+
+<details>
+<summary><b>Open to show github stats:</b></summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbjr369&langs_count=10&layout=compact)](https://github.com/alexbjr369/github-readme-stats)
+
+</details>
 
 ### Currently studying:
 
