@@ -19,7 +19,9 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
 <details>
 <summary><b>Open to show list:</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbjr369&langs_count=10&layout=compact)](https://github.com/alexbjr369/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbjr369&langs_count=10&layout=compact&theme=radical)](https://github.com/alexbjr369/github-readme-stats)
 
 </details>
 
