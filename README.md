@@ -16,22 +16,11 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
 
 > For more information check out my **[website](https://alexbleggi.netlify.app/)**!!!
 
-### Most used languages:
-
-<details>
-<summary><b>🔥 Open to show list:</b></summary>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbjr369&langs_count=10&layout=compact&theme=radical)](https://github.com/alexbjr369/github-readme-stats)
-
-</details>
-
 ### Currently studying:
 
 <div style="display: inline_block">
   <a href="https://nextjs.org/" target="_blank">
-    <img align="center" alt="Next.js" height="75" width="75" src="./icons/next-js-gray.svg">
+    <img align="center" alt="Next.js" height="55" width="75" src="./icons/next-js-gray.svg">
   </a>
 </div>
 
@@ -57,6 +46,17 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
     <img align="center" alt="Ionic Animations and Gestures" height="50" width="50" src="./icons/ionic.svg">
   </a>
 </div>
+
+### Most used languages:
+
+<details>
+<summary><b>🔥 Open to show list:</b></summary>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbjr369&langs_count=10&layout=compact&theme=radical)](https://github.com/alexbjr369/github-readme-stats)
+
+</details>
 
 ## [Knowledge](https://alexbleggi.netlify.app/knowledge)
 
