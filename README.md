@@ -4,8 +4,6 @@
 
 Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in web development and an **UI/UX/Design System** development enthusiast, currently living in Brazil.
 
-> For more information check out my **[website](https://alexbleggi.netlify.app/)**!!!
-
 <div>
   <a href="https://www.linkedin.com/in/alex-bleggi-377907201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/alexbleggi" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=behance&logoColor=white&color=0057ff" target="_blank"></a>
@@ -14,10 +12,12 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
   <a href="https://www.npmjs.com/~alexbjr369" target="_blank"><img src="https://img.shields.io/badge/-npm-%230077B5?style=for-the-badge&logo=npm&logoColor=white&color=cb3837" target="_blank"></a>
 </div>
 
+> For more information check out my **[website](https://alexbleggi.netlify.app/)**!!!
+
 ### Most used languages:
 
 <details>
-<summary><b>Open to show list:</b></summary>
+<summary><b>🔥 Open to show list:</b></summary>
 
 <br>
 
@@ -61,7 +61,7 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
 A list of tools and technologies with which I have knowledge and experience.
 
 <details>
-<summary><b>Open to show list:</b></summary>
+<summary><b>🔥 Open to show list:</b></summary>
 
 ### Core
 
@@ -261,7 +261,7 @@ A list of tools and technologies with which I have knowledge and experience.
 A list of courses I took.
 
 <details>
-<summary><b>Open to show list:</b></summary>
+<summary><b>🔥 Open to show list:</b></summary>
 
 <br>
 
@@ -284,7 +284,7 @@ A list of courses I took.
 A list of personal and course projects.
 
 <details>
-<summary><b>Open to show list:</b></summary>
+<summary><b>🔥 Open to show list:</b></summary>
 
 ### Personal Projects
 
