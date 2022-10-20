@@ -1,11 +1,11 @@
-![](https://komarev.com/ghpvc/?username=alexbjr369)
-
 # [Alex Bleggi](https://alexbleggi.netlify.app/blog/welcome)
 
-<details>
-<summary><b>Github Stats:</b></summary>
+![](https://komarev.com/ghpvc/?username=alexbjr369)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alexbjr36923&hide=TeX&theme=radical)
+<details>
+<summary><b>Open to show github stats:</b></summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbjr369&langs_count=10&layout=compact)](https://github.com/alexbjr369/github-readme-stats)
 
 </details>
 
