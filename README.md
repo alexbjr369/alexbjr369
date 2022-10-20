@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=alexbjr369" alt="alexbjr369" /><p>
+
 # [Alex Bleggi](https://alexbleggi.netlify.app/blog/welcome)
 
 Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in web development and an **UI/UX/Design System** development enthusiast, currently living in Brazil.
@@ -43,9 +45,19 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
   </a>
 </div>
 
+<details>
+<summary>Github Stats</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emore23&hide=TeX&theme=radical)
+
+</details>
+
 ## [Knowledge](https://alexbleggi.netlify.app/knowledge)
 
 A list of tools and technologies with which I have knowledge and experience.
+
+<details>
+<summary>Open to show list</summary>
 
 ### Core
 
@@ -238,9 +250,14 @@ A list of tools and technologies with which I have knowledge and experience.
 
 ### [...more](https://alexbleggi.netlify.app/knowledge)
 
+</details>
+
 ## [Courses](https://alexbleggi.netlify.app/courses)
 
 A list of courses I took.
+
+<details>
+<summary>Open to show list</summary>
 
 - **[Ignite Node.js](https://www.rocketseat.com.br/ignite)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
 - **[Ignite React.js](https://www.rocketseat.com.br/ignite)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
@@ -254,9 +271,14 @@ A list of courses I took.
 - **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Advanced Animations and Interactions with Ionic](https://www.joshmorony.com/advanced-animations-and-interactions-with-ionic/?utm_source=books)** by **[Josh Morony](https://www.joshmorony.com/about/)**.
 
+</details>
+
 ## [Projects](https://alexbleggi.netlify.app/projects)
 
 A list of personal and course projects.
+
+<details>
+<summary>Open to show list</summary>
 
 ### Personal Projects
 
@@ -275,3 +297,5 @@ A list of personal and course projects.
 #### UI Widgets
 
 #### Animations
+
+</details>
