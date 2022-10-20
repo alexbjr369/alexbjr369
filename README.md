@@ -274,4 +274,4 @@ A list of personal and course projects.
 
 #### UI Widgets
 
-#### UI Widgets
+#### Animations
