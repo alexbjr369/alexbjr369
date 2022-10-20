@@ -1,7 +1,5 @@
 # [Alex Bleggi](https://alexbleggi.netlify.app/blog/welcome)
 
-![](https://komarev.com/ghpvc/?username=alexbjr369)
-
 Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in web development and an **UI/UX/Design System** development enthusiast, currently living in Brazil.
 
 <div>
@@ -50,7 +48,7 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
 ### Most used languages:
 
 <details>
-<summary><b>🔥 Open to show list:</b></summary>
+<summary><b>🔥 Click to show the list:</b></summary>
 
 <br>
 
@@ -63,7 +61,7 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
 A list of tools and technologies with which I have knowledge and experience.
 
 <details>
-<summary><b>🔥 Open to show list:</b></summary>
+<summary><b>🔥 Click to show the list:</b></summary>
 
 ### Core
 
@@ -263,7 +261,7 @@ A list of tools and technologies with which I have knowledge and experience.
 A list of courses I took.
 
 <details>
-<summary><b>🔥 Open to show list:</b></summary>
+<summary><b>🔥 Click to show the list:</b></summary>
 
 <br>
 
@@ -286,7 +284,7 @@ A list of courses I took.
 A list of personal and course projects.
 
 <details>
-<summary><b>🔥 Open to show list:</b></summary>
+<summary><b>🔥 Click to show the list:</b></summary>
 
 ### Personal Projects
 
