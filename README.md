@@ -261,8 +261,9 @@ A list of personal and course projects.
 ### Personal Projects
 
 - **[Hive](https://github.com/alexbjr369/hive):** Just Another UI framework...
-- **[Hive Website](https://github.com/alexbjr369/hive/tree/main/packages/hive-website):** Hive Website.
-- **[Website](https://github.com/alexbjr369/website/tree/feature):** Personal Website.
+
+#### Guides
+
 - **[Linting - Code-quality Rules](https://github.com/alexbjr369/linting-code-quality-rules):** A compilation of Code-quality Rules Linting configurations.
 - **[Linting - Commit](https://github.com/alexbjr369/linting-commit):** A configuration for Commit Linting.
 - **[Linting - Formatting Rules](https://github.com/alexbjr369/linting-formatting-rules):** A configuration for Formatting Rules Linting.
@@ -270,3 +271,7 @@ A list of personal and course projects.
 ### Course Projects
 
 - **[Natours](https://alexbleggi.netlify.app/preview/natours/):** Project developed in the course **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
+
+#### UI Widgets
+
+#### UI Widgets
