@@ -260,10 +260,10 @@ A list of tools and technologies with which I have knowledge and experience.
 
 A list of courses I took.
 
-<br>
-
 <details>
 <summary><b>Open to show list:</b></summary>
+
+<br>
 
 - **[Ignite Node.js](https://www.rocketseat.com.br/ignite)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
 - **[Ignite React.js](https://www.rocketseat.com.br/ignite)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
