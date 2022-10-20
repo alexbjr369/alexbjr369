@@ -14,8 +14,10 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
   <a href="https://www.npmjs.com/~alexbjr369" target="_blank"><img src="https://img.shields.io/badge/-npm-%230077B5?style=for-the-badge&logo=npm&logoColor=white&color=cb3837" target="_blank"></a>
 </div>
 
+### Most used languages:
+
 <details>
-<summary><b>Open to show github stats:</b></summary>
+<summary><b>Open to show list:</b></summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbjr369&langs_count=10&layout=compact)](https://github.com/alexbjr369/github-readme-stats)
 
