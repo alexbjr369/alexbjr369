@@ -260,7 +260,7 @@ A list of personal and course projects.
 
 ### Personal Projects
 
-- **[Hive](https://github.com/alexbjr369/hive/tree/feature):** Just Another UI framework...
+- **[Hive](https://github.com/alexbjr369/hive):** Just Another UI framework...
 - **[Hive Website](https://github.com/alexbjr369/hive/tree/main/packages/hive-website):** Hive Website.
 - **[Website](https://github.com/alexbjr369/website/tree/feature):** Personal Website.
 - **[Linting - Code-quality Rules](https://github.com/alexbjr369/linting-code-quality-rules):** A compilation of Code-quality Rules Linting configurations.
