@@ -3,10 +3,10 @@
 Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in web development and an **UI/UX/Design System** development enthusiast, currently living in Brazil.
 
 <div>
-  <a href="https://www.linkedin.com/in/alex-bleggi-377907201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alex-bleggi-377907201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/alexbleggi" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=behance&logoColor=white&color=0057ff" target="_blank"></a>
   <a href="https://soundcloud.com/alex-bleggi" target="_blank"><img src="https://img.shields.io/badge/-soundcloud-%230077B5?style=for-the-badge&logo=soundcloud&logoColor=white&color=f50" target="_blank"></a>
-  <a href="https://www.udemy.com/user/alex-bleggi-2/" target="_blank"><img src="https://img.shields.io/badge/-udemy-%230077B5?style=for-the-badge&logo=udemy&logoColor=white&color=a435f0" target="_blank"></a>
+  <a href="https://www.udemy.com/user/alex-bleggi-2" target="_blank"><img src="https://img.shields.io/badge/-udemy-%230077B5?style=for-the-badge&logo=udemy&logoColor=white&color=a435f0" target="_blank"></a>
   <a href="https://www.npmjs.com/~alexbjr369" target="_blank"><img src="https://img.shields.io/badge/-npm-%230077B5?style=for-the-badge&logo=npm&logoColor=white&color=cb3837" target="_blank"></a>
 </div>
 
@@ -17,7 +17,7 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
 ### Currently studying:
 
 <div style="display: inline_block">
-  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://nextjs.org" target="_blank">
     <img align="center" alt="Next.js" height="55" width="75" src="./icons/next-js-gray.svg">
   </a>
 </div>
@@ -25,19 +25,19 @@ Hi there!!! I'm Alex and I'm a Front-end developer with 8 years of experience in
 ### Currently working with:
 
 <div style="display: inline_block">
-  <a href="https://stenciljs.com/" target="_blank">
+  <a href="https://stenciljs.com" target="_blank">
     <img align="center" alt="Stencil.js" height="55" width="55" src="./icons/stencil-js-gray.svg">
   </a>
-  <a href="https://sass-lang.com/" target="_blank">
+  <a href="https://sass-lang.com" target="_blank">
     <img align="center" alt="SCSS" height="60" width="60" src="./icons/sass.svg">
   </a>
-  <a href="https://storybook.js.org/" target="_blank">
+  <a href="https://storybook.js.org" target="_blank">
     <img align="center" alt="Storybook" height="50" width="50" src="./icons/storybook.svg">
   </a>
   <a href="https://ionicframework.com/docs/utilities/animations" target="_blank">
     <img align="center" alt="Ionic Animations and Gestures" height="50" width="50" src="./icons/ionic.svg">
   </a>
-  <a href="https://angular.io/" target="_blank">
+  <a href="https://angular.io" target="_blank">
     <img align="center" alt="Angular" height="50" width="50" src="./icons/angular.svg">
   </a>
   <a href="https://ionicframework.com/docs/utilities/animations" target="_blank">
@@ -78,7 +78,7 @@ A list of tools and technologies with which I have knowledge and experience.
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img align="center" alt="JavaScript" height="50" width="50" src="./icons/javascript.svg">
   </a>
-  <a href="https://www.webcomponents.org/" target="_blank">
+  <a href="https://www.webcomponents.org" target="_blank">
     <img align="center" alt="Web Components" height="50" width="55" src="./icons/web-components.png">
   </a>
 </div>
@@ -86,25 +86,25 @@ A list of tools and technologies with which I have knowledge and experience.
 ### JavaScript Compilers/Libraries/Frameworks
 
 <div style="display: inline_block">
-  <a href="https://jquery.com/" target="_blank">
+  <a href="https://jquery.com" target="_blank">
     <img align="center" alt="jQuery" height="50" width="50" src="./icons/jquery.svg">
   </a>
-  <a href="https://angularjs.org/" target="_blank">
+  <a href="https://angularjs.org" target="_blank">
     <img align="center" alt="Angular.js" height="50" width="50" src="./icons/angular-js.svg">
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org" target="_blank">
     <img align="center" alt="TypeScript" height="50" width="50" src="./icons/typescript.svg">
   </a>
-  <a href="https://stenciljs.com/" target="_blank">
+  <a href="https://stenciljs.com" target="_blank">
     <img align="center" alt="Stencil.js" height="55" width="55" src="./icons/stencil-js-gray.svg">
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org" target="_blank">
     <img align="center" alt="React.js" height="50" width="50" src="./icons/react-js.svg">
   </a>
-  <a href="https://vuejs.org/" target="_blank">
+  <a href="https://vuejs.org" target="_blank">
     <img align="center" alt="Vue.js" height="50" width="50" src="./icons/vue-js.svg">
   </a>
-  <a href="https://angular.io/" target="_blank">
+  <a href="https://angular.io" target="_blank">
     <img align="center" alt="Angular" height="50" width="50" src="./icons/angular.svg">
   </a>
 </div>
@@ -112,19 +112,19 @@ A list of tools and technologies with which I have knowledge and experience.
 ### CSS Processors
 
 <div style="display: inline_block">
-  <a href="https://lesscss.org/" target="_blank">
+  <a href="https://lesscss.org" target="_blank">
     <img align="center" alt="Less" height="60" width="60" src="./icons/less.svg">
   </a>
-  <a href="https://stylus-lang.com/" target="_blank">
+  <a href="https://stylus-lang.com" target="_blank">
     <img align="center" alt="Stylus" height="60" width="60" src="./icons/stylus.svg">
   </a>
-  <a href="https://sass-lang.com/" target="_blank">
+  <a href="https://sass-lang.com" target="_blank">
     <img align="center" alt="Sass" height="60" width="60" src="./icons/sass.svg">
   </a>
-  <a href="https://postcss.org/" target="_blank">
+  <a href="https://postcss.org" target="_blank">
     <img align="center" alt="PostCSS" height="60" width="60" src="./icons/postcss.svg">
   </a>
-   <a href="https://styled-components.com/" target="_blank">
+   <a href="https://styled-components.com" target="_blank">
     <img align="center" alt="Styled Components" height="60" width="60" src="./icons/styled-components.svg">
   </a>
 </div>
@@ -135,22 +135,22 @@ A list of tools and technologies with which I have knowledge and experience.
   <a href="https://docs.npmjs.com/cli/v8/using-npm/scripts" target="_blank">
     <img align="center" alt="npm Build Scripts" height="50" width="50" src="./icons/npm-build-scripts.svg">
   </a>
-  <a href="https://gruntjs.com/" target="_blank">
+  <a href="https://gruntjs.com" target="_blank">
     <img align="center" alt="Grunt" height="50" width="50" src="./icons/grunt.svg">
   </a>
-  <a href="https://gulpjs.com/" target="_blank">
+  <a href="https://gulpjs.com" target="_blank">
     <img align="center" alt="Gulp" height="50" width="50" src="./icons/gulp.svg">
   </a>
-  <a href="https://parceljs.org/" target="_blank">
+  <a href="https://parceljs.org" target="_blank">
     <img align="center" alt="Parcel" height="50" width="60" src="./icons/parcel.png">
   </a>
-  <a href="https://rollupjs.org/guide/en/" target="_blank">
+  <a href="https://rollupjs.org/guide/en" target="_blank">
     <img align="center" alt="Rollup" height="50" width="50" src="./icons/rollup.svg">
   </a>
-  <a href="https://webpack.js.org/" target="_blank">
+  <a href="https://webpack.js.org" target="_blank">
     <img align="center" alt="Webpack" height="50" width="50" src="./icons/webpack.svg">
   </a>
-  <a href="https://vitejs.dev/" target="_blank">
+  <a href="https://vitejs.dev" target="_blank">
     <img align="center" alt="Vite" height="50" width="50" src="./icons/vite.svg">
   </a>
 </div>
@@ -166,7 +166,7 @@ A list of tools and technologies with which I have knowledge and experience.
 ### Monorepos
 
 <div style="display: inline_block">
-  <a href="https://lerna.js.org/" target="_blank">
+  <a href="https://lerna.js.org" target="_blank">
     <img align="center" alt="Lerna" height="50" width="50" src="./icons/lerna-gray.svg">
   </a>
 </div>
@@ -174,16 +174,16 @@ A list of tools and technologies with which I have knowledge and experience.
 ### Linters
 
 <div style="display: inline_block">
-  <a href="https://editorconfig.org/" target="_blank">
+  <a href="https://editorconfig.org" target="_blank">
     <img align="center" alt="EditorConfig" height="50" width="50" src="./icons/editorconfig.png">
   </a>
-  <a href="https://prettier.io/" target="_blank">
+  <a href="https://prettier.io" target="_blank">
     <img align="center" alt="Prettier" height="50" width="50" src="./icons/prettier.svg">
   </a>
-  <a href="https://stylelint.io/" target="_blank">
+  <a href="https://stylelint.io" target="_blank">
     <img align="center" alt="Stylelint" height="50" width="50" src="./icons/stylelint-gray.svg">
   </a>
-  <a href="https://eslint.org/" target="_blank">
+  <a href="https://eslint.org" target="_blank">
     <img align="center" alt="ESLint" height="50" width="50" src="./icons/eslint.svg">
   </a>
 </div>
@@ -191,7 +191,7 @@ A list of tools and technologies with which I have knowledge and experience.
 ### Animation Libraries/Frameworks
 
 <div style="display: inline_block">
-  <a href="https://greensock.com/gsap/" target="_blank">
+  <a href="https://greensock.com/gsap" target="_blank">
     <img align="center" alt="GSAP" height="50" width="50" src="./icons/gsap.svg">
   </a>
   <a href="https://ionicframework.com/docs/utilities/animations" target="_blank">
@@ -202,10 +202,10 @@ A list of tools and technologies with which I have knowledge and experience.
 ### UI Libraries/Frameworks
 
 <div style="display: inline_block">
-  <a href="https://getbootstrap.com/" target="_blank">
+  <a href="https://getbootstrap.com" target="_blank">
     <img align="center" alt="Bootstrap" height="50" width="50" src="./icons/bootstrap.svg">
   </a>
-  <a href="https://ionicframework.com/" target="_blank">
+  <a href="https://ionicframework.com" target="_blank">
     <img align="center" alt="Ionic" height="50" width="50" src="./icons/ionic.svg">
   </a>
 </div>
@@ -213,10 +213,10 @@ A list of tools and technologies with which I have knowledge and experience.
 ### Methodologies/Guidelines
 
 <div style="display: inline_block">
-  <a href="https://en.bem.info/methodology/" target="_blank">
+  <a href="https://en.bem.info/methodology" target="_blank">
     <img align="center" alt="BEM Methodology" height="55" width="55" src="./icons/bem-methodology-gray.svg">
   </a>
-  <a href="https://sass-guidelin.es/" target="_blank">
+  <a href="https://sass-guidelin.es" target="_blank">
     <img align="center" alt="Sass Guidelines" height="55" width="55" src="./icons/sass-guidelines.png">
   </a>
 </div>
@@ -224,13 +224,13 @@ A list of tools and technologies with which I have knowledge and experience.
 ### Documentation
 
 <div style="display: inline_block">
-  <a href="http://sassdoc.com/" target="_blank">
+  <a href="http://sassdoc.com" target="_blank">
     <img align="center" alt="SassDoc" height="50" width="50" src="./icons/sassdoc.svg">
   </a>
-  <a href="https://storybook.js.org/" target="_blank">
+  <a href="https://storybook.js.org" target="_blank">
     <img align="center" alt="Storybook" height="50" width="50" src="./icons/storybook.svg">
   </a>
-  <a href="https://docusaurus.io/" target="_blank">
+  <a href="https://docusaurus.io" target="_blank">
     <img align="center" alt="Docusaurus" height="50" width="50" src="./icons/docusaurus.svg">
   </a>
 </div>
@@ -247,7 +247,7 @@ A list of tools and technologies with which I have knowledge and experience.
   <a href="https://www.adobe.com/br/products/xd.html" target="_blank">
     <img align="center" alt="Adobe xd" height="50" width="50" src="./icons/adobe-xd.svg">
   </a>
-  <a href="https://www.figma.com/" target="_blank">
+  <a href="https://www.figma.com" target="_blank">
     <img align="center" alt="Figma" height="50" width="50" src="./icons/figma.svg">
   </a>
 </div>
@@ -302,7 +302,7 @@ A list of personal and course projects.
 
 #### Animations
 
-- **[toni&guy](https://github.com/alexbjr369/animations/tree/main/toni-and-guy):** Project based on the **[tutorial](https://www.youtube.com/watch?v=kzVgkrCiDEo&list=PL8kd7mPFdvbhpThk9H09UkKbVMXd_zM4_&ab_channel=codicts)** by **[codicts](https://www.youtube.com/channel/UCItYqcz88SDtWMZ---R492g)** on **Youtube**
+- **[toni&guy](https://github.com/alexbjr369/toni-guy):** Project based on the **[tutorial](https://www.youtube.com/watch?v=kzVgkrCiDEo&list=PL8kd7mPFdvbhpThk9H09UkKbVMXd_zM4_&ab_channel=codicts)** by **[codicts](https://www.youtube.com/channel/UCItYqcz88SDtWMZ---R492g)** on **Youtube**
 
 #### UI Widgets
 
