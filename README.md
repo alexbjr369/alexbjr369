@@ -300,8 +300,10 @@ A list of personal and course projects.
 
 - **[Natours](https://alexbleggi.netlify.app/preview/natours/):** Project developed in the course **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 
-#### UI Widgets
-
 #### Animations
+
+- **[toni&guy](https://github.com/alexbjr369/animations/tree/main/toni-and-guy):** Project based on the **[tutorial](https://www.youtube.com/watch?v=kzVgkrCiDEo&list=PL8kd7mPFdvbhpThk9H09UkKbVMXd_zM4_&ab_channel=codicts)** by **[codicts](https://www.youtube.com/channel/UCItYqcz88SDtWMZ---R492g)** on **Youtube**
+
+#### UI Widgets
 
 </details>
