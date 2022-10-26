@@ -302,7 +302,7 @@ A list of personal and course projects.
 
 #### Animations
 
-- **[toni&guy](https://github.com/alexbjr369/toni-guy):** Project based on the **[tutorial](https://www.youtube.com/watch?v=kzVgkrCiDEo&list=PL8kd7mPFdvbhpThk9H09UkKbVMXd_zM4_&ab_channel=codicts)** by **[codicts](https://www.youtube.com/channel/UCItYqcz88SDtWMZ---R492g)** on **Youtube**
+- **[toni&guy](https://github.com/alexbjr369/toni-guy):** Project based on the **[tutorial](https://www.youtube.com/watch?v=kzVgkrCiDEo&list=PL8kd7mPFdvbhpThk9H09UkKbVMXd_zM4_&ab_channel=codicts)** by **[codicts](https://www.youtube.com/channel/UCItYqcz88SDtWMZ---R492g)** on **[Youtube](https://www.youtube.com/)**.
 
 #### UI Widgets
 
