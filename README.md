@@ -288,15 +288,15 @@ A list of personal and course projects.
 
 ### Personal Projects
 
-- **[Hive](https://github.com/alexbjr369/hive):** Just Another UI framework...
-- **[HSL Color System](https://github.com/alexbjr369/hsl-color-system):** Under development.
+- **[Hive](https://github.com/alexbjr369/hive):** Just Another UI framework... (Under development).
+- **[HSL Color System](https://github.com/alexbjr369/hsl-color-system):** A dynamic HSL color system (Under development).
 
 #### Guides
 
-- **[Parcel Guide](https://github.com/alexbjr369/parcel-guide):** Under development.
-- **[Webpack guide](https://github.com/alexbjr369/webpack-guide):** Under development.
-- **[Rollup Guide](https://github.com/alexbjr369/rollup-guide):** Under development.
-- **[npm Build Scripts Guide](https://github.com/alexbjr369/npm-build-scripts-guide):** Under development.
+- **[Parcel Guide](https://github.com/alexbjr369/parcel-guide):** A compilation of parcel configurations (Under development).
+- **[Webpack guide](https://github.com/alexbjr369/webpack-guide):** A compilation of Webpack configurations (Under development).
+- **[Rollup Guide](https://github.com/alexbjr369/rollup-guide):** A compilation of Rollup configurations (Under development).
+- **[npm Build Scripts Guide](https://github.com/alexbjr369/npm-build-scripts-guide):** A compilation of npm Build Scripts configurations (Under development).
 - **[Linting - Code-quality Rules](https://github.com/alexbjr369/linting-code-quality-rules):** A compilation of Code-quality Rules Linting configurations.
 - **[Linting - Commit](https://github.com/alexbjr369/linting-commit):** A configuration for Commit Linting.
 - **[Linting - Formatting Rules](https://github.com/alexbjr369/linting-formatting-rules):** A configuration for Formatting Rules Linting.
