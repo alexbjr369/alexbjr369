@@ -303,6 +303,7 @@ A list of personal and course projects.
 
 ### Course Projects
 
+- **[Trillo](https://github.com/alexbjr369/trillo):** Project developed in the course **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Natours](https://github.com/alexbjr369/natours):** Project developed in the course **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 
 #### Animations
