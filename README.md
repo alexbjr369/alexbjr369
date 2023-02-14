@@ -276,7 +276,6 @@ A list of courses I took.
 - **[The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Advanced Animations and Interactions with Ionic](https://www.joshmorony.com/advanced-animations-and-interactions-with-ionic/?utm_source=books)** by **[Josh Morony](https://www.joshmorony.com/about/)**.
-
 </details>
 
 ## [Projects](https://alexbleggi.netlify.app/projects)
@@ -309,9 +308,6 @@ A list of personal and course projects.
 
 #### Animations
 
-- **[Reindeer](https://github.com/alexbjr369/reindeer):** Project based on the **[tutorial](https://www.youtube.com/watch?v=jPSFK-6ba-0&list=PL8kd7mPFdvbhpThk9H09UkKbVMXd_zM4_&index=2&ab_channel=codicts)** by **[codicts](https://www.youtube.com/channel/UCItYqcz88SDtWMZ---R492g)** on **[Youtube](https://www.youtube.com/)** (Under development).
+- **[Reindeer](https://github.com/alexbjr369/reindeer):** Project based on the **[tutorial](https://www.youtube.com/watch?v=jPSFK-6ba-0&list=PL8kd7mPFdvbhpThk9H09UkKbVMXd_zM4_&index=2&ab_channel=codicts)** by **[codicts](https://www.youtube.com/channel/UCItYqcz88SDtWMZ---R492g)** on **[Youtube](https://www.youtube.com/)**.
 - **[toni&guy](https://github.com/alexbjr369/toni-guy):** Project based on the **[tutorial](https://www.youtube.com/watch?v=kzVgkrCiDEo&list=PL8kd7mPFdvbhpThk9H09UkKbVMXd_zM4_&ab_channel=codicts)** by **[codicts](https://www.youtube.com/channel/UCItYqcz88SDtWMZ---R492g)** on **[Youtube](https://www.youtube.com/)**.
-
-#### UI Widgets
-
 </details>
